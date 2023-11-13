@@ -9,9 +9,11 @@
 
 ### **pengucord is a discord copy/clone created in [penguinmod](https://penguinmod.com)**
 #### heres some things we'd like to add
-* voice chat
 * servers
-* and more that we haven't discussed because the gc is radio silent START SPEAKING!!!!
+* dms
+* link embeds
+* server folders
+* pings
 
 # **features**
 ### **pengucord is ***HEAVILY*** work in progress! currently, we don't have anything made to show or release so we can't put anything here. if you'd like to stay up to date check our [trello board](https://trello.com/b/8ThQDUai/main)**
@@ -23,7 +25,7 @@
 - **[sam/violet](https://penguinmod.com/profile?user=SammerLOL)**
   - founder
   - management
-  - being silent and barely speaking
+  - idk
 
 - **[quzama/wolfsyncc](https://penguinmod.com/profile?user=quzama)**
   - logo design
