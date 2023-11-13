@@ -10,6 +10,6 @@ made in https://penguinmod.com
 ## credits
 (in order of joining the team)
 
-* limed - owner, management
+* limed - founder, management
 * quzama/wolfsyncc - logo, getting id and pfp
-* Tiny Games - ui design
+* Tiny Games - coding, ui design
